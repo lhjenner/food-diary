@@ -1,0 +1,14 @@
+@import "./buttons.css";
+@import "./colors.css";
+@import "./fonts.css";
+
+h1 {
+    font-size: 2.5rem;
+}
+
+.meal-container {
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 30px
+}

@@ -1,0 +1,10 @@
+:root { 
+    --background-color: rgb(1, 1, 95);
+    --btn-primary-color: purple;
+}
+
+html {
+    background-color: var(--background-color);
+    color: white;
+}
+
