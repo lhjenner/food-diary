@@ -1,5 +1,6 @@
 :root { 
     --background-color: rgb(1, 1, 95);
+    --container-bg-color: rgb(3, 3, 143);
     --btn-primary-color: purple;
 }
 
